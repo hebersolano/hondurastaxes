@@ -1,0 +1,23 @@
+body{
+background: black;
+}
+
+#intro {
+color: black;
+background: white;
+text-align: center;
+}
+
+label, p{
+color: white;
+}
+
+#table2020 {
+border-color: white;
+border-style: solid;
+strong: 1 px;
+color: white;
+align: center;
+hight: 300px;
+weight: 500px;
+}
